@@ -40,7 +40,6 @@
    https://raw.githubusercontent.com/thedeaddan/family_guy_twitch/main/twitch-extra-player.user.js
    ```
 
-   > Замените `thedeaddan/family_guy_twitch` на путь вашего GitHub. На странице Raw Tampermonkey предложит «Установить».
 3. Нажмите **Install** / **Установить**.
 
 Готово. Перейдите на канал на Twitch: `https://www.twitch.tv/<имя_канала>` — ниже блока «Сведения о трансляции» появится компактный плеер.
