@@ -1,11 +1,16 @@
 // ==UserScript==
 // @name         Twitch Extra Player – centered compact
-// @namespace    dan.twitch.extra.player
+// @namespace    thedeaddan.twitch.extra.player
 // @version      1.3.0
-// @description  Вставляет компактный iframe-плеер по центру под блоком "Сведения о трансляции"
+// @description  Добавляет компактный доп. плеер по центру под блоком «Сведения о трансляции» на Twitch
 // @match        https://www.twitch.tv/*
 // @run-at       document-idle
 // @grant        GM_addStyle
+// @license      MIT
+// @homepageURL  https://github.com/thedeaddan/family_guy_twitch
+// @supportURL   https://github.com/thedeaddan/family_guy_twitch/issues
+// @updateURL    https://raw.githubusercontent.com/thedeaddan/family_guy_twitch/main/twitch-extra-player.user.js
+// @downloadURL  https://raw.githubusercontent.com/thedeaddan/family_guy_twitch/main/twitch-extra-player.user.js
 // ==/UserScript==
 
 (function () {
