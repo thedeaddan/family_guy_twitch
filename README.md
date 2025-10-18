@@ -114,14 +114,10 @@ location.reload();
 
 ---
 
-## Скриншоты (для GitHub)
+## Скриншоты 
 
-Добавьте в репозиторий и вставьте в README:
+<img width="2328" height="1309" alt="image" src="https://github.com/user-attachments/assets/8f5cbd49-c104-4717-8c2f-8409ec4c1a31" />
 
-```
-![Плеер под блоком сведений](docs/screenshot-placed.png)
-![Кнопки управления](docs/screenshot-controls.png)
-```
 
 ---
 
